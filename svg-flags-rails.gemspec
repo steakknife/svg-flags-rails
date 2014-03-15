@@ -21,3 +21,4 @@ EOF
   s.add_dependency 'railties', '>= 3.1'
   s.add_development_dependency 'rails', '>= 3.2.13'
 end
+.tap {|gem| pk = File.expand_path(File.join('~/.keys', 'gem-private_key.pem')); gem.signing_key = pk if File.exist? pk; gem.cert_chain = ['gem-public_cert.pem']} # pressed firmly by waxseal
