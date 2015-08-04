@@ -1,20 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
-<svg id="svg3337" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata3298">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="flag">
-  <g id="g8564" fill-rule="evenodd" stroke-width="1pt" transform="matrix(1.3333 0 0 1 -106.67 0)">
-   <rect id="rect1200" height="480" width="160" y="-2.3484e-9" x="80" fill="#0b7226"/>
-   <rect id="rect880" height="480" width="160" y="-2.3484e-9" x="240" fill="#ff0"/>
-   <rect id="rect1201" height="480" width="160" y="-2.3484e-9" x="400" fill="#bc0000"/>
-  </g>
-  <polygon id="polygon907" transform="matrix(1.217 0 0 1.2614 108.31 39.077)" points="192.06 142.52 251 142.52 204.47 177.05 221.53 232 175 197.46 128.47 230.43 145.53 177.05 99 142.52 156.39 142.52 175 86" fill="#0b7226"/>
- </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="480pt" height="360pt" viewBox="0 0 480 360" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(4.313725%,44.705882%,14.901961%);fill-opacity:1;" d="M -0.00390625 0 L 159.992188 0 L 159.992188 360 L -0.00390625 360 Z M -0.00390625 0 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,100%,0%);fill-opacity:1;" d="M 159.992188 0 L 319.988281 0 L 319.988281 360 L 159.992188 360 Z M 159.992188 0 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(73.72549%,0%,0%);fill-opacity:1;" d="M 319.988281 0 L 479.984375 0 L 479.984375 360 L 319.988281 360 Z M 319.988281 0 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(4.313725%,44.705882%,14.901961%);fill-opacity:1;" d="M 256.535156 164.140625 L 310.332031 164.140625 L 267.863281 196.804688 L 283.433594 248.792969 L 240.964844 216.113281 L 198.492188 247.304688 L 214.066406 196.804688 L 171.59375 164.140625 L 223.976562 164.140625 L 240.964844 110.667969 Z M 256.535156 164.140625 "/>
+</g>
 </svg>

@@ -1,21 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
-<svg id="svg378" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="512" width="512" version="1" y="0" x="0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata4320">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs380">
-  <clipPath id="clipPath4479" clipPathUnits="userSpaceOnUse">
-   <rect id="rect4481" fill-opacity="0.67" height="708.66" width="708.66" y="-.0000033379" x="96.887"/>
-  </clipPath>
- </defs>
- <g id="flag" fill-rule="evenodd" clip-path="url(#clipPath4479)" transform="matrix(.72249 0 0 .72249 -70 .0000024116)" stroke-width="1pt">
-  <rect id="rect171" height="708.66" width="1063" y="0" x="0" fill="#660057"/>
-  <path id="path193" d="m216.66 708.32-216.66 0.34v-708.66l215.64 0.11276 139.14 44.743-138.12 43.614 138.12 44.968-138.12 43.615 138.12 44.968-138.12 43.614 138.12 44.968-138.12 43.615 138.12 44.969-138.12 43.614 138.12 44.969-138.12 43.614 138.12 44.968-138.12 43.615 138.12 44.968-138.12 43.615" fill="#fff"/>
- </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="384pt" height="384pt" viewBox="0 0 384 384" version="1.1">
+<g id="surface1">
+<rect x="0" y="0" width="384" height="384" style="fill:rgb(40%,0%,34.117647%);fill-opacity:1;stroke:none;"/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 64.902344 383.816406 L -52.5 384 L -52.5 0 L 64.347656 0.0625 L 139.742188 24.304688 L 64.902344 47.9375 L 139.742188 72.304688 L 64.902344 95.9375 L 139.742188 120.304688 L 64.902344 143.9375 L 139.742188 168.304688 L 64.902344 191.9375 L 139.742188 216.304688 L 64.902344 239.9375 L 139.742188 264.304688 L 64.902344 287.941406 L 139.742188 312.304688 L 64.902344 335.941406 L 139.742188 360.304688 L 64.902344 383.941406 "/>
+</g>
 </svg>

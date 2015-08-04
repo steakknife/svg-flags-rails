@@ -1,22 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
-<svg id="svg378" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1" y="0" x="0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata3652">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs380">
-  <clipPath id="clipPath7229" clipPathUnits="userSpaceOnUse">
-   <rect id="rect7231" fill-opacity="0.67" height="480" width="640" y="0" x="0"/>
-  </clipPath>
- </defs>
- <g id="flag" fill-rule="evenodd" clip-path="url(#clipPath7229)">
-  <rect id="rect149" transform="scale(-1)" height="480" width="685.71" y="-480" x="-662.86" fill="#2d9c4b"/>
-  <path id="path673" d="m67.255 175.27c69.077 191.41 277.65 198.43 353.18 0-0.53734 265.16-348.61 277.45-353.18 0z" fill="#ffe900"/>
-  <polygon id="polygon638" transform="matrix(.57539 -.021671 .010838 .56753 -68.784 7.4629)" points="533.78 256.9 555.61 324.28 626.44 324.23 569.1 365.81 591.04 433.16 591.04 433.16 533.77 391.48 476.5 433.15 498.45 365.81 441.12 324.21 511.95 324.28" fill="#ffe900"/>
- </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="480pt" height="360pt" viewBox="0 0 480 360" version="1.1">
+<g id="surface1">
+<rect x="0" y="0" width="480" height="360" style="fill:rgb(17.647059%,61.176471%,29.411765%);fill-opacity:1;stroke:none;"/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,91.372549%,0%);fill-opacity:1;" d="M 50.441406 131.453125 C 102.25 275.011719 258.679688 280.273438 315.328125 131.453125 C 314.921875 330.324219 53.867188 339.539062 50.441406 131.453125 Z M 50.441406 131.453125 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,91.372549%,0%);fill-opacity:1;" d="M 180.847656 106.269531 L 190.816406 134.59375 L 221.382812 133.421875 L 196.976562 152.054688 L 206.992188 180.363281 L 181.9375 163.554688 L 157.5625 182.222656 L 166.488281 153.203125 L 141.410156 136.425781 L 171.976562 135.304688 Z M 180.847656 106.269531 "/>
+</g>
 </svg>

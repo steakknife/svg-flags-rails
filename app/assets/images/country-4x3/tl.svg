@@ -1,23 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
-<svg id="svg548" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata3781">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs550">
-  <clipPath id="clipPath7035" clipPathUnits="userSpaceOnUse">
-   <rect id="rect7037" fill-opacity="0.67" height="512" width="682.67" y=".000017120" x="0"/>
-  </clipPath>
- </defs>
- <g id="flag" clip-path="url(#clipPath7035)" fill-rule="evenodd" transform="matrix(.93750 0 0 .93750 0 -.000016050)">
-  <rect id="rect672" height="512" width="1031.2" y=".000017855" x="0" stroke-width="1pt" fill="#cb000f"/>
-  <path id="path671" d="m0 0.000033605c3.2337 0 512 256.72 512 256.72l-512 255.28v-512z" fill="#f8c00c"/>
-  <path id="path670" d="m0 0.000033605c2.1513 0 340.62 256.72 340.62 256.72l-340.62 255.28v-512z"/>
-  <path id="path663" d="m187.71 298.16-60.813-13.478-31.072 52.839-4.8613-59.677-60.753-13.372 54.84-24.817-3.2916-59.385 40.235 43.39 55.341-25.232-28.827 53.899 39.203 45.835z" fill="#fff"/>
- </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="480pt" height="360pt" viewBox="0 0 480 360" version="1.1">
+<g id="surface1">
+<rect x="0" y="0" width="480" height="360" style="fill:rgb(79.607843%,0%,5.882353%);fill-opacity:1;stroke:none;"/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(97.254902%,75.294118%,4.705882%);fill-opacity:1;" d="M 0 0 C 2.273438 0 360 180.507812 360 180.507812 L 0 360 Z M 0 0 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 0 0 C 1.511719 0 239.5 180.507812 239.5 180.507812 L 0 360 Z M 0 0 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 131.984375 209.644531 L 89.222656 200.167969 L 67.375 237.320312 L 63.957031 195.359375 L 21.242188 185.957031 L 59.800781 168.507812 L 57.488281 126.753906 L 85.777344 157.261719 L 124.6875 139.519531 L 104.417969 177.417969 Z M 131.984375 209.644531 "/>
+</g>
 </svg>

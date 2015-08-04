@@ -1,23 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
-<svg id="svg556" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata3023">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs558">
-  <clipPath id="clipPath4229" clipPathUnits="userSpaceOnUse">
-   <rect id="rect4231" fill-opacity="0.67" height="512" width="682.67" y=".000021845" x="0"/>
-  </clipPath>
- </defs>
- <g id="flag" fill-rule="evenodd" clip-path="url(#clipPath4229)" transform="matrix(.93750 0 0 .93750 0 -.00002048)" stroke-width="1pt">
-  <rect id="rect563" height="170.68" width="1024" y="170.64" x="0" fill="#fff"/>
-  <rect id="rect559" height="170.68" width="1024" y="341.32" x="0" fill="#f31830"/>
-  <rect id="rect564" height="170.68" width="1024" y=".00011734" x="0" fill="#00d941"/>
-  <path id="path565" d="m0 0.000022575v512l255.45-170.7 0.55-170.77-256-170.53z"/>
- </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="480pt" height="360pt" viewBox="0 0 480 360" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 0 119.980469 L 720 119.980469 L 720 239.992188 L 0 239.992188 Z M 0 119.980469 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(95.294118%,9.411765%,18.823529%);fill-opacity:1;" d="M 0 239.992188 L 720 239.992188 L 720 360 L 0 360 Z M 0 239.992188 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(0%,85.098039%,25.490196%);fill-opacity:1;" d="M 0 0 L 720 0 L 720 120.007812 L 0 120.007812 Z M 0 0 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 0 0 L 0 360 L 179.613281 239.976562 L 180 119.902344 Z M 0 0 "/>
+</g>
 </svg>

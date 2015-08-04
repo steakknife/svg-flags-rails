@@ -1,25 +1,33 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
-<svg id="svg548" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="512" width="512" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata3717">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs550">
-  <clipPath id="clipPath7166" clipPathUnits="userSpaceOnUse">
-   <rect id="rect7168" fill-opacity="0.67" height="496.3" width="496.3" y="-.24064" x="0"/>
-  </clipPath>
- </defs>
- <g id="flag" clip-path="url(#clipPath7166)" fill-rule="evenodd" transform="matrix(1.0316 0 0 1.0316 0 .24825)">
-  <rect id="rect558" height="496.3" width="744.09" y="-.24065" x="0" stroke-width="1pt" fill="#ffe300"/>
-  <rect id="rect555" height="99.66" width="744.09" y="201.52" x="0" stroke-width="1pt" fill="#118600"/>
-  <rect id="rect570" height="99.66" width="744.09" y="-0.000061" x="0" stroke-width="1pt" fill="#118600"/>
-  <rect id="rect554" height="301.18" width="297.12" y="-.000114" x="0" stroke-width="1pt" fill="#d80000"/>
-  <path id="path567" d="m130.3 124.25c0-0.83 18.259-51.456 18.259-51.456l16.599 50.626s55.606 1.66 55.606 0.83-43.987 33.198-43.987 33.198 20.748 58.096 19.919 56.436c-0.83-1.66-48.137-34.858-48.137-34.858s-48.136 33.198-47.306 33.198 18.258-54.776 18.258-54.776l-43.156-32.37 53.946-0.83z" fill="#fff"/>
-  <rect id="rect569" height="99.66" width="744.09" y="396.4" x="0" stroke-width="1pt" fill="#118600"/>
- </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="384pt" height="384pt" viewBox="0 0 384 384" version="1.1">
+<defs>
+<clipPath id="clip1">
+  <path d="M 0 0 L 383.988281 0 L 383.988281 383.988281 L 0 383.988281 Z M 0 0 "/>
+</clipPath>
+<clipPath id="clip2">
+  <path d="M 0 156 L 383.988281 156 L 383.988281 234 L 0 234 Z M 0 156 "/>
+</clipPath>
+<clipPath id="clip3">
+  <path d="M 0 0 L 383.988281 0 L 383.988281 78 L 0 78 Z M 0 0 "/>
+</clipPath>
+<clipPath id="clip4">
+  <path d="M 0 306 L 383.988281 306 L 383.988281 383.988281 L 0 383.988281 Z M 0 306 "/>
+</clipPath>
+</defs>
+<g id="surface1">
+<g clip-path="url(#clip1)" clip-rule="nonzero">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,89.019608%,0%);fill-opacity:1;" d="M 0 0 L 575.703125 0 L 575.703125 383.988281 L 0 383.988281 Z M 0 0 "/>
+</g>
+<g clip-path="url(#clip2)" clip-rule="nonzero">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(6.666667%,52.54902%,0%);fill-opacity:1;" d="M 0 156.101562 L 575.703125 156.101562 L 575.703125 233.210938 L 0 233.210938 Z M 0 156.101562 "/>
+</g>
+<g clip-path="url(#clip3)" clip-rule="nonzero">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(6.666667%,52.54902%,0%);fill-opacity:1;" d="M 0 0.1875 L 575.703125 0.1875 L 575.703125 77.292969 L 0 77.292969 Z M 0 0.1875 "/>
+</g>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(84.705882%,0%,0%);fill-opacity:1;" d="M 0 0.1875 L 229.882812 0.1875 L 229.882812 233.210938 L 0 233.210938 Z M 0 0.1875 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 100.8125 96.320312 C 100.8125 95.675781 114.941406 56.507812 114.941406 56.507812 L 127.78125 95.675781 C 127.78125 95.675781 170.804688 96.960938 170.804688 96.320312 C 170.804688 95.675781 136.773438 122.003906 136.773438 122.003906 C 136.773438 122.003906 152.824219 166.953125 152.183594 165.667969 C 151.542969 164.382812 114.941406 138.699219 114.941406 138.699219 C 114.941406 138.699219 77.699219 164.382812 78.339844 164.382812 C 78.980469 164.382812 92.464844 122.003906 92.464844 122.003906 L 59.074219 96.960938 L 100.8125 96.316406 Z M 100.8125 96.320312 "/>
+<g clip-path="url(#clip4)" clip-rule="nonzero">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(6.666667%,52.54902%,0%);fill-opacity:1;" d="M 0 306.882812 L 575.703125 306.882812 L 575.703125 383.988281 L 0 383.988281 Z M 0 306.882812 "/>
+</g>
+</g>
 </svg>

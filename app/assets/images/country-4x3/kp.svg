@@ -1,25 +1,33 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
-<svg id="svg378" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1" y="0" x="0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata11">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs380">
-  <clipPath id="clipPath4479" clipPathUnits="userSpaceOnUse">
-   <rect id="rect4481" fill-opacity="0.67" height="511.9" width="682.53" y=".10048" x="5.0774"/>
-  </clipPath>
- </defs>
- <g id="flag" fill-rule="evenodd" clip-path="url(#clipPath4479)" transform="matrix(.93768 0 0 .93768 -4.761 -.094216)">
-  <rect id="rect149" transform="scale(-1)" height="510.95" width="851.86" stroke="#000" y="-511.52" x="-775.94" stroke-width=".76014pt" fill="#fff"/>
-  <rect id="rect148" transform="scale(-1,1)" height="92.457" width="851.86" y="419.07" x="-775.94" stroke-width="1pt" fill="#3e5698"/>
-  <rect id="rect605" transform="scale(-1)" height="283.21" width="851.86" y="-397.65" x="-775.94" stroke-width="1pt" fill="#c60000"/>
-  <rect id="rect606" transform="scale(-1,1)" height="92.457" width="851.86" y=".57557" x="-775.94" stroke-width="1pt" fill="#3e5698"/>
-  <path id="path607" d="m495.86 1148c0 90.46-73.332 163.79-163.79 163.79-90.46 0-163.79-73.332-163.79-163.79 0-90.46 73.332-163.79 163.79-163.79 90.46 0 163.79 73.332 163.79 163.79z" transform="matrix(.72421 0 0 .70142 -30.589 -549.16)" fill="#fff"/>
-  <polygon id="polygon136" transform="matrix(1.0032 -.0050477 -.010923 .98334 -320.22 -86.633)" points="498.45 365.81 441.12 324.21 511.95 324.28 533.78 256.9 555.61 324.28 626.44 324.23 569.1 365.81 591.04 433.16 591.04 433.16 533.77 391.48 476.5 433.15" fill="#c40000"/>
- </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="480pt" height="360pt" viewBox="0 0 480 360" version="1.1">
+<defs>
+<clipPath id="clip1">
+  <path d="M 0 0 L 479.996094 0 L 479.996094 360 L 0 360 Z M 0 0 "/>
+</clipPath>
+<clipPath id="clip2">
+  <path d="M 0 294 L 479.996094 294 L 479.996094 360 L 0 360 Z M 0 294 "/>
+</clipPath>
+<clipPath id="clip3">
+  <path d="M 0 80 L 479.996094 80 L 479.996094 280 L 0 280 Z M 0 80 "/>
+</clipPath>
+<clipPath id="clip4">
+  <path d="M 0 0 L 479.996094 0 L 479.996094 66 L 0 66 Z M 0 0 "/>
+</clipPath>
+</defs>
+<g id="surface1">
+<g clip-path="url(#clip1)" clip-rule="nonzero">
+<path style="fill-rule:evenodd;fill:rgb(100%,100%,100%);fill-opacity:1;stroke-width:0.950175;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:4;" d="M -775.940531 -511.518952 L 75.918135 -511.518952 L 75.918135 -0.572609 L -775.940531 -0.572609 Z M -775.940531 -511.518952 " transform="matrix(-0.70326,0,0,-0.70326,-3.57075,-0.070662)"/>
+</g>
+<g clip-path="url(#clip2)" clip-rule="nonzero">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(24.313725%,33.72549%,59.607843%);fill-opacity:1;" d="M 542.117188 294.644531 L -56.960938 294.644531 L -56.960938 359.664062 L 542.117188 359.664062 Z M 542.117188 294.644531 "/>
+</g>
+<g clip-path="url(#clip3)" clip-rule="nonzero">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(77.647059%,0%,0%);fill-opacity:1;" d="M 542.117188 279.582031 L -56.960938 279.582031 L -56.960938 80.410156 L 542.117188 80.410156 Z M 542.117188 279.582031 "/>
+</g>
+<g clip-path="url(#clip4)" clip-rule="nonzero">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(24.313725%,33.72549%,59.607843%);fill-opacity:1;" d="M 542.117188 0.335938 L -56.960938 0.335938 L -56.960938 65.355469 L 542.117188 65.355469 Z M 542.117188 0.335938 "/>
+</g>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 227.460938 180.011719 C 227.460938 224.636719 190.113281 260.808594 144.042969 260.808594 C 97.972656 260.808594 60.625 224.632812 60.625 180.011719 C 60.625 135.390625 97.972656 99.21875 144.042969 99.21875 C 190.113281 99.21875 227.460938 135.390625 227.460938 180.011719 Z M 227.460938 180.011719 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(76.862745%,0%,0%);fill-opacity:1;" d="M 120.082031 190.207031 L 79.957031 161.644531 L 129.925781 161.441406 L 145.84375 114.765625 L 160.730469 161.285156 L 210.699219 161 L 169.925781 189.957031 L 184.890625 236.453125 L 144.804688 207.835938 L 104.078125 236.855469 Z M 120.082031 190.207031 "/>
+</g>
 </svg>

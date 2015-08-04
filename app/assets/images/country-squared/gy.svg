@@ -1,19 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
-<svg id="svg548" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="512" width="512" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata3584">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="flag" fill-rule="evenodd" transform="scale(.99620 1)">
-  <rect id="rect672" height="512" width="512" y=".000041723" x="1.9527" stroke-width="1pt" fill="#399408"/>
-  <path id="path555" d="m0.13927 0.000016987c-0.67396 0.078245 497.58 257.58 497.58 257.58l-497.72 254.17 0.13927-511.75z" fill="#fff"/>
-  <path id="path671" d="m0.22972 21.532c2.7794 0 448.96 232.41 446.42 234.7l-445.15 237.92-1.2703-472.62z" fill="#ffde08"/>
-  <path id="path556" d="m1.5007 0.83567c1.4837 0 233.65 256.98 233.65 256.98l-233.65 250.96v-507.95z"/>
-  <path id="path670" d="m0.22972 36.162c1.3314-15.985 209.53 222.29 209.53 222.29l-209.53 223.36-0.00028-445.65z" fill="#de2110"/>
- </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="384pt" height="384pt" viewBox="0 0 384 384" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(22.352941%,58.039216%,3.137255%);fill-opacity:1;" d="M 1.457031 0 L 384 0 L 384 384 L 1.457031 384 Z M 1.457031 0 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 0.105469 0 C -0.398438 0.0585938 371.871094 193.183594 371.871094 193.183594 L 0 383.8125 L 0.101562 0 Z M 0.105469 0 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,87.058824%,3.137255%);fill-opacity:1;" d="M 0.171875 16.148438 C 2.25 16.148438 335.613281 190.457031 333.714844 192.175781 L 1.121094 370.613281 Z M 0.171875 16.148438 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 1.121094 0.625 C 2.230469 0.625 175.691406 193.363281 175.691406 193.363281 L 1.121094 381.582031 L 1.121094 0.621094 Z M 1.121094 0.625 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(87.058824%,12.941176%,6.27451%);fill-opacity:1;" d="M 0.171875 27.121094 C 1.167969 15.132812 156.722656 193.839844 156.722656 193.839844 L 0.171875 361.359375 Z M 0.171875 27.121094 "/>
+</g>
 </svg>

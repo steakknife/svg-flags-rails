@@ -1,17 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
-<svg id="svg378" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1" y="0" x="0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata3357">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="flag" fill-rule="evenodd" transform="matrix(.64143 0 0 .96773 0 .000014494)" stroke-width="1pt">
-  <rect id="rect171" transform="matrix(.93865 0 0 .69686 0 -.000015259)" rx="0" ry="0" width="1063" y="0" x="0" height="708.66" fill="#007308"/>
-  <rect id="rect256" transform="matrix(.93865 0 0 .69686 0 -.000015259)" rx="0" ry="0" width="1063" y="475.56" x="0" height="236.22" fill="#bf0000"/>
-  <rect id="rect255" height="164.61" width="997.77" y="-.000015" x="0" fill="#ffb300"/>
- </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="480pt" height="360pt" viewBox="0 0 480 360" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(0%,45.098039%,3.137255%);fill-opacity:1;" d="M 0 0 L 480.007812 0 L 480.007812 358.425781 L 0 358.425781 Z M 0 0 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(74.901961%,0%,0%);fill-opacity:1;" d="M 0 240.527344 L 480.007812 240.527344 L 480.007812 360.003906 L 0 360.003906 Z M 0 240.527344 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,70.196078%,0%);fill-opacity:1;" d="M 0 0 L 480 0 L 480 119.472656 L 0 119.472656 Z M 0 0 "/>
+</g>
 </svg>

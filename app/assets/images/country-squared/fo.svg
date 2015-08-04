@@ -1,42 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
-<!-- /Creative Commons Public Domain -->
-<!--
-<rdf:RDF xmlns="http://web.resource.org/cc/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-<Work rdf:about="">
-   <dc:title>SVG image of Aaland and Faore flags</dc:title>
-   <dc:rights><Agent>
-      <dc:title>Christian Schaller</dc:title>
-   </Agent></dc:rights>
-   <license rdf:resource="http://web.resource.org/cc/PublicDomain" />
-</Work>
-
-<License rdf:about="http://web.resource.org/cc/PublicDomain">
-   <permits rdf:resource="http://web.resource.org/cc/Reproduction" />
-   <permits rdf:resource="http://web.resource.org/cc/Distribution" />
-   <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
-</License>
-</rdf:RDF>
--->
-<svg id="islenskifaninn" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="512" width="512" version="1" y="0" x="0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata3168">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs380">
-  <clipPath id="clipPath3016" clipPathUnits="userSpaceOnUse">
-   <rect id="rect3018" fill-opacity="0.67" height="512" width="512" y="0" x="0"/>
-  </clipPath>
- </defs>
- <g id="flag" clip-path="url(#clipPath3016)" fill-rule="evenodd" stroke-width="0pt">
-  <rect id="blarfeldur" height="512" width="708.18" y="0" x="-78.015" fill="#fff"/>
-  <path id="hviturkross" d="m-75.901 199.11h198.29v-199.11h113.31v199.11h396.58v113.78h-396.58v199.11h-113.31v-199.11h-198.29v-113.78z" fill="#003897"/>
-  <path id="raudurkross" d="m-75.901 227.56h226.62v-227.56h56.654v227.56h424.91v56.889h-424.91v227.56h-56.654v-227.56h-226.62v-56.889z" fill="#d72828"/>
- </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="384pt" height="384pt" viewBox="0 0 384 384" version="1.1">
+<g id="surface1">
+<rect x="0" y="0" width="384" height="384" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(0%,21.960784%,59.215686%);fill-opacity:1;" d="M -56.925781 149.332031 L 91.792969 149.332031 L 91.792969 0 L 176.773438 0 L 176.773438 149.332031 L 474.210938 149.332031 L 474.210938 234.667969 L 176.773438 234.667969 L 176.773438 384 L 91.792969 384 L 91.792969 234.667969 L -56.925781 234.667969 Z M -56.925781 149.332031 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(84.313725%,15.686275%,15.686275%);fill-opacity:1;" d="M -56.925781 170.671875 L 113.039062 170.671875 L 113.039062 0 L 155.53125 0 L 155.53125 170.671875 L 474.210938 170.671875 L 474.210938 213.335938 L 155.53125 213.335938 L 155.53125 384.007812 L 113.039062 384.007812 L 113.039062 213.335938 L -56.925781 213.335938 Z M -56.925781 170.671875 "/>
+</g>
 </svg>

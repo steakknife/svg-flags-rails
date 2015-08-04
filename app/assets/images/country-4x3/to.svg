@@ -1,22 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
-<svg id="svg656" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata4096">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="flag" fill-rule="evenodd" stroke-width="1pt">
-  <rect id="rect661" height="480" width="640" y=".000013351" x="0" fill="#c10000"/>
-  <g id="g7004" transform="scale(.77831)">
-   <rect id="rect671" height="257.38" width="321.15" y="-4.7682e-7" x="0" fill="#fff"/>
-   <g id="g668" transform="matrix(1.0321 0 0 1.0321 0 .000061451)" fill="#c10000">
-    <rect id="rect666" height="173.71" width="49.595" y="38.89" x="128.04"/>
-    <rect id="rect667" transform="matrix(0 1 -1 0 278.59 -27.098)" height="173.71" width="49.595" y="38.89" x="128.04"/>
-   </g>
-  </g>
- </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="480pt" height="360pt" viewBox="0 0 480 360" version="1.1">
+<g id="surface1">
+<rect x="0" y="0" width="480" height="360" style="fill:rgb(75.686275%,0%,0%);fill-opacity:1;stroke:none;"/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 0 0 L 187.464844 0 L 187.464844 150.242188 L 0 150.242188 Z M 0 0 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(75.686275%,0%,0%);fill-opacity:1;" d="M 77.140625 23.429688 L 107.019531 23.429688 L 107.019531 128.085938 L 77.140625 128.085938 Z M 77.140625 23.429688 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(75.686275%,0%,0%);fill-opacity:1;" d="M 144.414062 60.816406 L 144.414062 90.695312 L 39.757812 90.695312 L 39.757812 60.816406 Z M 144.414062 60.816406 "/>
+</g>
 </svg>

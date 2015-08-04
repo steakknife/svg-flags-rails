@@ -1,22 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
-<svg id="svg378" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata3092">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs380">
-  <clipPath id="clipPath5023" clipPathUnits="userSpaceOnUse">
-   <rect id="rect5025" fill-opacity="0.67" height="480" width="640" y="0" x="0"/>
-  </clipPath>
- </defs>
- <g id="flag" fill-rule="evenodd" clip-path="url(#clipPath5023)">
-  <rect id="rect171" height="480" width="720" y="0" x="-40" stroke-width="1pt" fill="#e90012"/>
-  <rect id="rect403" height="241.48" width="720" y="119.26" x="-40" fill="#003dd2"/>
-  <path id="path138" d="m678.37 357.48a141.78 141.78 0 1 1 -283.56 0 141.78 141.78 0 1 1 283.56 0z" transform="matrix(.72943 0 0 .72943 -71.404 -20.759)" fill="#fff"/>
- </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="480pt" height="360pt" viewBox="0 0 480 360" version="1.1">
+<g id="surface1">
+<rect x="0" y="0" width="480" height="360" style="fill:rgb(91.372549%,0%,7.058824%);fill-opacity:1;stroke:none;"/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(0%,23.921569%,82.352941%);fill-opacity:1;" d="M -30 89.445312 L 510 89.445312 L 510 270.554688 L -30 270.554688 Z M -30 89.445312 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 317.566406 180 C 317.566406 222.835938 282.839844 257.5625 240 257.5625 C 197.164062 257.5625 162.4375 222.835938 162.4375 180 C 162.4375 137.160156 197.164062 102.433594 240 102.433594 C 282.839844 102.433594 317.566406 137.160156 317.566406 180 Z M 317.566406 180 "/>
+</g>
 </svg>

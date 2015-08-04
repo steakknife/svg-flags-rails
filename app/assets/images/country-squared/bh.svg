@@ -1,21 +1,19 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
-<svg id="svg378" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="512" width="512" version="1" y="0" x="0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata3016">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs380">
-  <clipPath id="clipPath3054" clipPathUnits="userSpaceOnUse">
-   <rect id="rect3056" height="708.66" width="708.66" y="-196.66" x="119.03" fill="#808080"/>
-  </clipPath>
- </defs>
- <g id="flag" fill-rule="evenodd" clip-path="url(#clipPath3054)" transform="matrix(.72249 0 0 .72249 -86 142.09)" stroke-width="1pt">
-  <rect id="rect171" height="708.66" width="1063" y="-196.66" x="0" fill="#e10011"/>
-  <path id="path193" d="m216.66 511.66-216.66 0.34v-708.66l215.64 0.11276 139.14 44.743-138.12 43.614 138.12 44.968-138.12 43.615 138.12 44.968-138.12 43.614 138.12 44.968-138.12 43.615 138.12 44.969-138.12 43.614 138.12 44.969-138.12 43.614 138.12 44.968-138.12 43.615 138.12 44.968-138.12 43.615" fill="#fff"/>
- </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="384pt" height="384pt" viewBox="0 0 384 384" version="1.1">
+<defs>
+<clipPath id="clip1">
+  <path d="M 0 0.00390625 L 384 0.00390625 L 384 384 L 0 384 Z M 0 0.00390625 "/>
+</clipPath>
+<clipPath id="clip2">
+  <path d="M 0 0.00390625 L 128 0.00390625 L 128 384 L 0 384 Z M 0 0.00390625 "/>
+</clipPath>
+</defs>
+<g id="surface1">
+<g clip-path="url(#clip1)" clip-rule="nonzero">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(88.235294%,0%,6.666667%);fill-opacity:1;" d="M -64.5 0.00390625 L 511.503906 0.00390625 L 511.503906 384.003906 L -64.5 384.003906 Z M -64.5 0.00390625 "/>
+</g>
+<g clip-path="url(#clip2)" clip-rule="nonzero">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 52.902344 383.820312 L -64.5 384.003906 L -64.5 0.00390625 L 52.347656 0.0664062 L 127.742188 24.308594 L 52.902344 47.941406 L 127.742188 72.308594 L 52.902344 95.941406 L 127.742188 120.308594 L 52.902344 143.941406 L 127.742188 168.308594 L 52.902344 191.941406 L 127.742188 216.308594 L 52.902344 239.941406 L 127.742188 264.308594 L 52.902344 287.945312 L 127.742188 312.308594 L 52.902344 335.945312 L 127.742188 360.308594 L 52.902344 383.945312 "/>
+</g>
+</g>
 </svg>

@@ -1,42 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
-<!--
-
-<rdf:RDF xmlns="http://web.resource.org/cc/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-<Work rdf:about="">
-   <dc:title>SVG graphic of the Marshall Islands' Flag</dc:title>
-   <dc:rights><Agent>
-      <dc:title>Andrew Duhan</dc:title>
-   </Agent></dc:rights>
-   <license rdf:resource="http://web.resource.org/cc/PublicDomain" />
-</Work>
-
-<License rdf:about="http://web.resource.org/cc/PublicDomain">
-   <permits rdf:resource="http://web.resource.org/cc/Reproduction" />
-   <permits rdf:resource="http://web.resource.org/cc/Distribution" />
-   <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
-</License>
-
-</rdf:RDF>
-
--->
-<svg id="svg650" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata3495">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="flag" fill-rule="evenodd">
-  <g id="g9216" transform="scale(1.3333 1)">
-   <rect id="rect659" height="480" width="479.91" y="0" x="0" stroke-width="1pt" fill="#3b5aa3"/>
-   <path id="path655" d="m0 467.08 479.94-467.08-0.02 86.915-479.92 393.08v-12.92z" fill="#e2ae57"/>
-   <path id="path654" d="m16.798 479.98 463.2-300.76-0.1-95.479-479.9 396.26 16.798-0.02z" fill="#fff"/>
-  </g>
-  <path id="path656" d="m175.32 15.163-6.3145 102.79-27.009-65.552 10.361 69.775l-41.83-56.378 27.42 64.338-54.935-42.616 42.765 53.546-62.102-27.52 54.392 41.19-67.651-8.95 63.931 25.34-100.35 9.18 100.59 6.7232-63.742 26.207 66.972-9.0623-54.195 40.018 62.891-27.595-42.896 53.99 54.573-41.318-27.036 62.889 43.684-54.69-11.824 68.173 27.478-63.7 6.2111 100.63 9.6904-100.38 23.692 64.088-9.0321-69.057 43.468 54.738-28.561-63.93 54.55 43.996-43.37-54.929 64.834 26.994-57.379-41.902 69.878 11.78-66.896-25.694 104.05-6.4608-104.05-9.6904 68.486-22.828-70.972 8.9141 58.638-40.996-66.091 26.586 45.644-55.334-55.582 43.408 26.746-66.412-43.146 56.474 9.2674-70.43-25.665 66.455-9.587-102.79z" fill="#fff"/>
- </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="480pt" height="360pt" viewBox="0 0 480 360" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(23.137255%,35.294118%,63.921569%);fill-opacity:1;" d="M 0 0 L 479.898438 0 L 479.898438 360 L 0 360 Z M 0 0 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(88.627451%,68.235294%,34.117647%);fill-opacity:1;" d="M 0 350.308594 L 479.929688 0 L 479.90625 65.1875 L 0 359.996094 L 0 350.304688 Z M 0 350.308594 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 16.796875 359.984375 L 479.984375 134.414062 L 479.886719 62.804688 L -0.00390625 360 Z M 16.796875 359.984375 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 131.488281 11.371094 L 126.753906 88.464844 L 106.496094 39.300781 L 114.269531 91.632812 L 82.894531 49.347656 L 103.460938 97.601562 L 62.257812 65.640625 L 94.332031 105.800781 L 47.757812 85.160156 L 88.550781 116.050781 L 37.8125 109.339844 L 85.761719 128.34375 L 10.5 135.230469 L 85.941406 140.273438 L 38.132812 159.925781 L 88.363281 153.128906 L 47.71875 183.144531 L 94.886719 162.449219 L 62.714844 202.941406 L 103.644531 171.953125 L 83.367188 219.117188 L 116.128906 178.101562 L 107.261719 229.230469 L 127.871094 181.457031 L 132.527344 256.929688 L 139.796875 181.644531 L 157.566406 229.710938 L 150.789062 177.917969 L 183.390625 218.96875 L 161.96875 171.023438 L 202.882812 204.019531 L 170.355469 162.824219 L 218.980469 183.066406 L 175.945312 151.640625 L 228.355469 160.476562 L 178.183594 141.207031 L 256.222656 136.359375 L 178.183594 129.09375 L 229.546875 111.972656 L 176.320312 118.65625 L 220.296875 87.910156 L 170.730469 107.851562 L 204.960938 66.347656 L 163.277344 98.90625 L 183.335938 49.097656 L 150.976562 91.453125 L 157.925781 38.628906 L 138.675781 88.46875 L 131.488281 11.378906 Z M 131.488281 11.371094 "/>
+</g>
 </svg>

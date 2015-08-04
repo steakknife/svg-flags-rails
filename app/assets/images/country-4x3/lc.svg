@@ -1,18 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
-<svg id="svg604" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata3135">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="flag" fill-rule="evenodd">
-  <rect id="rect607" height="480" width="640" y="0" x="0" fill="#65cfff"/>
-  <path id="path615" d="m318.9 41.991 162.66 395.3-322.6 0.91 159.94-396.21z" fill="#fff"/>
-  <path id="path617" d="m319.09 96.516 140.67 339.99-278.99 0.78 138.32-340.77z"/>
-  <path id="path616" d="m318.9 240.1 162.66 197.64-322.6 0.46 159.94-198.1z" fill="#ffce00"/>
- </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="480pt" height="360pt" viewBox="0 0 480 360" version="1.1">
+<g id="surface1">
+<rect x="0" y="0" width="480" height="360" style="fill:rgb(39.607843%,81.176471%,100%);fill-opacity:1;stroke:none;"/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 239.175781 31.492188 L 361.171875 327.96875 L 119.21875 328.652344 Z M 239.175781 31.492188 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 239.316406 72.386719 L 344.820312 327.378906 L 135.578125 327.964844 Z M 239.316406 72.386719 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,80.784314%,0%);fill-opacity:1;" d="M 239.175781 180.074219 L 361.171875 328.304688 L 119.21875 328.648438 Z M 239.175781 180.074219 "/>
+</g>
 </svg>

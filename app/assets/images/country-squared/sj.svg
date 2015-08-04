@@ -1,27 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
-<svg id="islenskifaninn" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="512" width="512" version="1" y="0" x="0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata3107">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs380">
-  <clipPath id="clipPath13395" clipPathUnits="userSpaceOnUse">
-   <rect id="rect13397" fill-opacity="0.67" height="512" width="512" y="0" x="0"/>
-  </clipPath>
- </defs>
- <g id="flag" clip-path="url(#clipPath13395)">
-  <rect id="rect12829" style="width:0" height="512" width="512" y="0" x="0" fill="#fff"/>
-  <rect id="rect583" fill-rule="evenodd" height="511.84" width="699.74" y=".15752" x="-80" stroke-width="1pt" fill="#fff"/>
-  <rect id="rect561" fill-rule="evenodd" height="221.47" width="212.94" y="-23.039" x="-99.213" stroke-width="1pt" fill="#d72828"/>
-  <rect id="rect562" fill-rule="evenodd" height="221.47" width="407.46" y="-23.039" x="237.42" stroke-width="1pt" fill="#d72828"/>
-  <rect id="rect563" fill-rule="evenodd" height="225.76" width="210" y="321.67" x="-99.213" stroke-width="1pt" fill="#d72828"/>
-  <rect id="rect564" fill-rule="evenodd" height="223.65" width="404.88" y="323.79" x="240" stroke-width="1pt" fill="#d72828"/>
-  <rect id="rect565" fill-rule="evenodd" height="570.47" width="64.425" y="-23.039" x="144.65" stroke-width="1pt" fill="#003897"/>
-  <rect id="rect566" fill-rule="evenodd" height="63.444" width="768.9" y="224.84" x="-124.02" stroke-width="1pt" fill="#003897"/>
- </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="384pt" height="384pt" viewBox="0 0 384 384" version="1.1">
+<g id="surface1">
+<rect x="0" y="0" width="384" height="384" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M -60 0.117188 L 464.804688 0.117188 L 464.804688 384 L -60 384 Z M -60 0.117188 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(84.313725%,15.686275%,15.686275%);fill-opacity:1;" d="M -74.410156 -17.277344 L 85.296875 -17.277344 L 85.296875 148.824219 L -74.410156 148.824219 Z M -74.410156 -17.277344 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(84.313725%,15.686275%,15.686275%);fill-opacity:1;" d="M 178.066406 -17.277344 L 483.660156 -17.277344 L 483.660156 148.824219 L 178.066406 148.824219 Z M 178.066406 -17.277344 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(84.313725%,15.686275%,15.686275%);fill-opacity:1;" d="M -74.410156 241.253906 L 83.089844 241.253906 L 83.089844 410.574219 L -74.410156 410.574219 Z M -74.410156 241.253906 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(84.313725%,15.686275%,15.686275%);fill-opacity:1;" d="M 180 242.84375 L 483.660156 242.84375 L 483.660156 410.578125 L 180 410.578125 Z M 180 242.84375 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(0%,21.960784%,59.215686%);fill-opacity:1;" d="M 108.488281 -17.277344 L 156.804688 -17.277344 L 156.804688 410.574219 L 108.488281 410.574219 Z M 108.488281 -17.277344 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(0%,21.960784%,59.215686%);fill-opacity:1;" d="M -93.015625 168.628906 L 483.660156 168.628906 L 483.660156 216.214844 L -93.015625 216.214844 Z M -93.015625 168.628906 "/>
+</g>
 </svg>

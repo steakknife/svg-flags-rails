@@ -1,25 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
-<svg id="svg611" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata3314">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs613">
-  <clipPath id="clipPath3037" clipPathUnits="userSpaceOnUse">
-   <rect id="rect3039" fill-opacity="0.67" height="480" width="640" y="0" x="0"/>
-  </clipPath>
- </defs>
- <g id="flag" clip-path="url(#clipPath3037)">
-  <rect id="rect2996" height="480" width="640" y="-2.8422e-14" x="0" fill="#fff"/>
-  <rect id="rect13410" height="480" width="480" y=".0000016054" x="79.926" fill="#fff"/>
-  <rect id="rect631" fill-rule="evenodd" height="95.895" width="720.15" y="384.1" x="-40.074" stroke-width="1pt" fill="#090"/>
-  <rect id="rect644" fill-rule="evenodd" height="96.001" width="720.09" y="-5.5055e-7" x="-40.074" stroke-width="1pt" fill="#090"/>
-  <rect id="rect653" fill-rule="evenodd" height="191.69" width="720.11" y="143.8" x="-40.074" stroke-width="1pt" fill="#f00"/>
-  <path id="path205" d="m373.9 329.18-62.259-41.2-61.954 41.605 23.042-67.61-61.841-41.749 76.508-0.58208 23.73-67.405 24.239 67.25 76.508 0.0887-61.524 42.143 23.551 67.461z" fill-rule="evenodd" stroke-width=".11287" fill="#ff0"/>
- </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="480pt" height="360pt" viewBox="0 0 480 360" version="1.1">
+<g id="surface1">
+<rect x="0" y="0" width="480" height="360" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 59.945312 0 L 419.945312 0 L 419.945312 360 L 59.945312 360 Z M 59.945312 0 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(0%,60%,0%);fill-opacity:1;" d="M -30.054688 288.074219 L 510.058594 288.074219 L 510.058594 359.996094 L -30.054688 359.996094 Z M -30.054688 288.074219 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(0%,60%,0%);fill-opacity:1;" d="M -30.054688 0 L 510.011719 0 L 510.011719 72 L -30.054688 72 Z M -30.054688 0 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,0%,0%);fill-opacity:1;" d="M -30.054688 107.851562 L 510.027344 107.851562 L 510.027344 251.617188 L -30.054688 251.617188 Z M -30.054688 107.851562 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,100%,0%);fill-opacity:1;" d="M 280.425781 246.886719 L 233.730469 215.984375 L 187.265625 247.1875 L 204.546875 196.480469 L 158.164062 165.167969 L 215.546875 164.734375 L 233.34375 114.179688 L 251.523438 164.617188 L 308.90625 164.683594 L 262.761719 196.289062 Z M 280.425781 246.886719 "/>
+</g>
 </svg>

@@ -1,21 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
-<svg id="svg704" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="512" width="512" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata4096">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs706">
-  <clipPath id="clipPath5153" clipPathUnits="userSpaceOnUse">
-   <rect id="rect5155" fill-opacity="0.67" height="170.82" width="170.82" y="4.1809" x="61.722"/>
-  </clipPath>
- </defs>
- <g id="flag" fill-rule="evenodd" clip-path="url(#clipPath5153)" transform="matrix(2.9973 0 0 2.9973 -185 -12.531)" stroke-width="1pt">
-  <rect id="rect721" transform="matrix(.40476 0 0 .34435 0 4.1809)" height="496.06" width="744.09" y="-.000015260" x="0" fill="#4aadd6"/>
-  <path id="path719" d="m372.72 248.93c0 69.362-56.229 125.59-125.59 125.59-69.362 0-125.59-56.229-125.59-125.59 0-69.362 56.229-125.59 125.59-125.59 69.362 0 125.59 56.229 125.59 125.59z" transform="matrix(.42245 0 0 .40453 28.407 -13.917)" fill="#ffde00"/>
- </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="384pt" height="384pt" viewBox="0 0 384 384" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(29.019608%,67.843137%,83.921569%);fill-opacity:1;" d="M -138.75 0 L 538.289062 0 L 538.289062 383.996094 L -138.75 383.996094 Z M -138.75 0 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,87.058824%,0%);fill-opacity:1;" d="M 279.0625 185.6875 C 279.0625 248.761719 225.667969 299.894531 159.796875 299.894531 C 93.925781 299.894531 40.53125 248.761719 40.53125 185.6875 C 40.53125 122.609375 93.929688 71.480469 159.796875 71.480469 C 225.667969 71.480469 279.0625 122.613281 279.0625 185.6875 Z M 279.0625 185.6875 "/>
+</g>
 </svg>

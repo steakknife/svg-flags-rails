@@ -1,49 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
-<!-- /Creative Commons Public Domain -->
-<!--
-<rdf:RDF xmlns="http://web.resource.org/cc/"
-     xmlns:dc="http://purl.org/dc/elements/1.1/"
-     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-<Work rdf:about="">
-    <dc:title>New Zealand, Australia, United Kingdom, United States, 
-Bosnia and Herzegovina, Azerbaijan, Armenia, Bahamas, Belgium, Benin, 
-Bulgaria, Estonia, Finland, Gabon, Gambia, Germany, Greece, Greenland, 
-Guinea, Honduras, Israel, Jamaica, Jordan, and Romania Flags</dc:title>
-    <dc:rights><Agent>
-       <dc:title>Daniel McRae</dc:title>
-    </Agent></dc:rights>
-    <license rdf:resource="http://web.resource.org/cc/PublicDomain" />
-</Work>
-
-<License rdf:about="http://web.resource.org/cc/PublicDomain">
-    <permits rdf:resource="http://web.resource.org/cc/Reproduction" />
-    <permits rdf:resource="http://web.resource.org/cc/Distribution" />
-    <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
-</License>
-</rdf:RDF>
--->
-<svg id="svg618" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="512" width="512" version="1.0" y="0" x="0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata3211">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="flag" stroke-width="1pt">
-  <g id="g646" fill-rule="evenodd" transform="matrix(4.2667 0 0 8.5333 0 -.00002)">
-   <rect id="rect622" height="20" width="120" y="20" x="0" fill="#c33"/>
-   <rect id="rect621" height="20" width="120" y="0" x="0" fill="#09c"/>
-   <rect id="rect623" height="20" width="120" y="40" x="0" fill="#093"/>
-  </g>
-  <g id="g575" transform="matrix(8.3333 0 0 8.3333 -238.75 6.1292)">
-   <g id="g638">
-    <path id="path637" fill="#fff" d="m66 30c0.004 4.968-4.0248 9-8.9928 9-4.968 0.008-9.003-4.018-9.007-8.986-0.012-4.968 4.01-9.006 8.978-9.014 4.968-0.0158 9.0096 4.0033 9.0215 8.9713v0.0287z"/>
-    <path id="path636" fill="#c33" d="m66.5 30c0.0033 4.0848-3.3093 7.4-7.3941 7.4-4.0848 0.0065-7.4026-3.3034-7.4059-7.3882-0.0098-4.0848 3.2975-7.4053 7.3823-7.4118 4.0848-0.013 7.4079 3.2916 7.4177 7.3764v0.0236z"/>
-   </g>
-   <polygon id="polygon574" fill-rule="evenodd" points="63.464 33.536 64.69 30.957 62 30 64.69 29.043 63.464 26.464 66.043 27.69 67 25 67 25 67.957 27.69 70.536 26.464 69.31 29.043 72 30 69.31 30.957 70.536 33.536 67.957 32.31 67 35 66.043 32.31" fill="#fff"/>
-  </g>
- </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="384pt" height="384pt" viewBox="0 0 384 384" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(80%,20%,20%);fill-opacity:1;" d="M 0 128 L 384.003906 128 L 384.003906 256 L 0 256 Z M 0 128 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(0%,60%,80%);fill-opacity:1;" d="M 0 0 L 384.003906 0 L 384.003906 128 L 0 128 Z M 0 0 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(0%,60%,20%);fill-opacity:1;" d="M 0 256 L 384.003906 256 L 384.003906 384 L 0 384 Z M 0 256 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 233.4375 192.097656 C 233.460938 223.144531 208.28125 248.347656 177.230469 248.347656 C 146.179688 248.394531 120.960938 223.234375 120.9375 192.183594 C 120.863281 161.132812 146 135.894531 177.050781 135.847656 C 208.101562 135.746094 233.359375 160.867188 233.433594 191.917969 L 233.433594 192.097656 Z M 233.4375 192.097656 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(80%,20%,20%);fill-opacity:1;" d="M 236.5625 192.097656 C 236.582031 217.625 215.878906 238.347656 190.347656 238.347656 C 164.816406 238.386719 144.082031 217.699219 144.0625 192.167969 C 144 166.640625 164.671875 145.886719 190.199219 145.847656 C 215.730469 145.765625 236.5 166.417969 236.5625 191.949219 Z M 236.5625 192.097656 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 217.585938 214.195312 L 225.25 198.078125 L 208.4375 192.097656 L 225.25 186.113281 L 217.585938 169.996094 L 233.703125 177.660156 L 239.6875 160.847656 L 245.667969 177.660156 L 261.785156 169.996094 L 254.125 186.113281 L 270.9375 192.097656 L 254.125 198.078125 L 261.785156 214.195312 L 245.667969 206.535156 L 239.6875 223.347656 L 233.703125 206.535156 Z M 217.585938 214.195312 "/>
+</g>
 </svg>

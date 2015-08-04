@@ -1,23 +1,26 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata16">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs14">
-  <clipPath id="clipPath3005" clipPathUnits="userSpaceOnUse">
-   <rect id="rect3007" height="500" width="666.67" y="-20" x="166.67"/>
-  </clipPath>
- </defs>
- <g id="flag" clip-path="url(#clipPath3005)" transform="matrix(.96 0 0 .96 -160 19.2)">
-  <rect id="rect4" height="500" width="1e3" y="-20" x="0" fill="#239e46"/>
-  <rect id="rect6" height="375" width="1e3" y="-20" x="0"/>
-  <rect id="rect8" height="125" width="1e3" y="-20" x="0" fill="#e70013"/>
-  <path id="path10" d="m544.2 185.8a54.3 54.3 0 1 0 0 88.4 62.5 62.5 0 1 1 0 -88.4m-13.8 44.2 84.1-27.3-52 71.5v-88.4l52 71.5z" fill="#fff"/>
- </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="480pt" height="360pt" viewBox="0 0 480 360" version="1.1">
+<defs>
+<clipPath id="clip1">
+  <path d="M 0.00390625 0 L 480 0 L 480 360 L 0.00390625 360 Z M 0.00390625 0 "/>
+</clipPath>
+<clipPath id="clip2">
+  <path d="M 0.00390625 0 L 480 0 L 480 270 L 0.00390625 270 Z M 0.00390625 0 "/>
+</clipPath>
+<clipPath id="clip3">
+  <path d="M 0.00390625 0 L 480 0 L 480 90 L 0.00390625 90 Z M 0.00390625 0 "/>
+</clipPath>
+</defs>
+<g id="surface1">
+<g clip-path="url(#clip1)" clip-rule="nonzero">
+<rect x="0" y="0" width="480" height="360" style="fill:rgb(13.72549%,61.960784%,27.45098%);fill-opacity:1;stroke:none;"/>
+</g>
+<g clip-path="url(#clip2)" clip-rule="nonzero">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M -120 0 L 600 0 L 600 270 L -120 270 Z M -120 0 "/>
+</g>
+<g clip-path="url(#clip3)" clip-rule="nonzero">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(90.588235%,0%,7.45098%);fill-opacity:1;" d="M -120 0 L 600 0 L 600 90 L -120 90 Z M -120 0 "/>
+</g>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 271.824219 148.175781 C 255.605469 136.601562 233.277344 139.078125 219.984375 153.921875 C 206.695312 168.765625 206.695312 191.234375 219.984375 206.078125 C 233.277344 220.921875 255.605469 223.398438 271.824219 211.824219 C 254.25 229.394531 225.757812 229.390625 208.1875 211.820312 C 190.617188 194.246094 190.617188 165.753906 208.1875 148.179688 C 225.757812 130.609375 254.25 130.605469 271.824219 148.175781 M 261.886719 180 L 322.441406 160.34375 L 285 211.824219 L 285 148.175781 L 322.441406 199.65625 Z M 261.886719 180 "/>
+</g>
 </svg>
