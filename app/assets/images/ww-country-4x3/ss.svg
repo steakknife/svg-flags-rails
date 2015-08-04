@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="480pt" height="360pt" viewBox="0 0 480 360" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(2.745098%,53.72549%,18.823529%);fill-opacity:1;" d="M 0 252 L 480 252 L 480 360 L 0 360 Z M 0 252 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 0 108 L 480 108 L 480 252 L 0 252 Z M 0 108 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 0 0 L 480 0 L 480 108 L 0 108 Z M 0 0 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(85.490196%,7.058824%,10.196078%);fill-opacity:1;" d="M 0 126 L 480 126 L 480 234 L 0 234 Z M 0 126 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(5.882353%,27.843137%,68.627451%);fill-opacity:1;" d="M 0 0 L 311.769531 180 L 0 360 Z M 0 0 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(98.823529%,86.666667%,3.529412%);fill-opacity:1;" d="M 150.523438 146.144531 L 46.324219 180 L 150.523438 213.855469 L 86.125 125.21875 L 86.125 234.78125 Z M 150.523438 146.144531 "/>
+</g>
+</svg>

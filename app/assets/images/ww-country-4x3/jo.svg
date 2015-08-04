@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="480pt" height="360pt" viewBox="0 0 480 360" version="1.1">
+<defs>
+<clipPath id="clip1">
+  <path d="M 0.00390625 0 L 480 0 L 480 120 L 0.00390625 120 Z M 0.00390625 0 "/>
+</clipPath>
+<clipPath id="clip2">
+  <path d="M 0.00390625 120 L 480 120 L 480 240 L 0.00390625 240 Z M 0.00390625 120 "/>
+</clipPath>
+<clipPath id="clip3">
+  <path d="M 0.00390625 240 L 480 240 L 480 360 L 0.00390625 360 Z M 0.00390625 240 "/>
+</clipPath>
+<clipPath id="clip4">
+  <path d="M 0.00390625 0 L 361 0 L 361 360 L 0.00390625 360 Z M 0.00390625 0 "/>
+</clipPath>
+</defs>
+<g id="surface1">
+<g clip-path="url(#clip1)" clip-rule="nonzero">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 0.00390625 0 L 720.003906 0 L 720.003906 120 L 0.00390625 120 Z M 0.00390625 0 "/>
+</g>
+<g clip-path="url(#clip2)" clip-rule="nonzero">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 0.00390625 120 L 720.003906 120 L 720.003906 240 L 0.00390625 240 Z M 0.00390625 120 "/>
+</g>
+<g clip-path="url(#clip3)" clip-rule="nonzero">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(0%,60%,0%);fill-opacity:1;" d="M 0.00390625 240 L 720.003906 240 L 720.003906 360 L 0.00390625 360 Z M 0.00390625 240 "/>
+</g>
+<g clip-path="url(#clip4)" clip-rule="nonzero">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,0%,0%);fill-opacity:1;" d="M 0.00390625 360 L 360.003906 180 L 0.00390625 0 Z M 0.00390625 360 "/>
+</g>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 100.089844 203.175781 L 104.074219 185.726562 L 86.179688 185.726562 L 102.300781 177.960938 L 91.144531 163.96875 L 107.269531 171.738281 L 111.25 154.285156 L 115.230469 171.738281 L 131.351562 163.96875 L 120.195312 177.960938 L 136.320312 185.726562 L 118.425781 185.726562 L 122.40625 203.175781 L 111.25 189.171875 Z M 100.089844 203.175781 "/>
+</g>
+</svg>
