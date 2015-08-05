@@ -1,25 +1,26 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
-<svg id="svg378" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="512" width="512" version="1" y="0" x="0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata2993">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs380">
-  <clipPath id="clipPath9157" clipPathUnits="userSpaceOnUse">
-   <rect id="rect9159" fill-opacity="0.67" height="496.06" width="496.06" y="-.000011173" x="44.568"/>
-  </clipPath>
- </defs>
- <g id="flag" clip-path="url(#clipPath9157)" fill-rule="evenodd" transform="matrix(1.0321 0 0 1.0321 -46 .000011531)">
-  <g id="g2490" transform="matrix(.77905 0 0 1 .00065043 -248.03)">
-   <rect id="rect149" transform="scale(-1)" height="496.06" width="744.09" y="-744.09" x="-744.09" fill="#fff"/>
-   <rect id="rect148" transform="scale(-1)" height="165.35" width="744.09" y="-413.39" x="-744.09" fill="#ff7000"/>
-   <rect id="rect585" transform="scale(-1)" height="165.35" width="744.09" y="-744.09" x="-744.09" fill="#36a100"/>
-  </g>
-  <path id="path578" d="m580.68 372.84c0 38.554-31.254 69.808-69.808 69.808s-69.808-31.254-69.808-69.808 31.254-69.808 69.808-69.808 69.808 31.254 69.808 69.808z" transform="matrix(.68523 0 0 .68523 -60.22 -7.4509)" fill="#ff7000"/>
- </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="384pt" height="384pt" viewBox="0 0 384 384" version="1.1">
+<defs>
+<clipPath id="clip1">
+  <path d="M 0 0 L 383.988281 0 L 383.988281 383.988281 L 0 383.988281 Z M 0 0 "/>
+</clipPath>
+<clipPath id="clip2">
+  <path d="M 0 0 L 383.988281 0 L 383.988281 128 L 0 128 Z M 0 0 "/>
+</clipPath>
+<clipPath id="clip3">
+  <path d="M 0 255 L 383.988281 255 L 383.988281 383.988281 L 0 383.988281 Z M 0 255 "/>
+</clipPath>
+</defs>
+<g id="surface1">
+<g clip-path="url(#clip1)" clip-rule="nonzero">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 414.21875 383.988281 L -34.5 383.988281 L -34.5 0 L 414.21875 0 Z M 414.21875 383.988281 "/>
+</g>
+<g clip-path="url(#clip2)" clip-rule="nonzero">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,43.921569%,0%);fill-opacity:1;" d="M 414.21875 128 L -34.5 128 L -34.5 0.0078125 L 414.21875 0.0078125 Z M 414.21875 128 "/>
+</g>
+<g clip-path="url(#clip3)" clip-rule="nonzero">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(21.176471%,63.137255%,0%);fill-opacity:1;" d="M 414.21875 383.988281 L -34.5 383.988281 L -34.5 255.996094 L 414.21875 255.996094 Z M 414.21875 383.988281 "/>
+</g>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,43.921569%,0%);fill-opacity:1;" d="M 226.890625 191.992188 C 226.890625 212.445312 210.3125 229.023438 189.863281 229.023438 C 169.410156 229.023438 152.835938 212.445312 152.835938 191.992188 C 152.835938 171.542969 169.410156 154.964844 189.863281 154.964844 C 210.3125 154.964844 226.890625 171.542969 226.890625 191.992188 Z M 226.890625 191.992188 "/>
+</g>
 </svg>

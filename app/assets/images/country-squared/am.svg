@@ -1,16 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="512" width="512" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 0.5160635 3.096381">
- <metadata id="metadata14">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="flag">
-  <path id="path4" d="m-1.2902 0h3.0964v1.0321h-3.0964z" fill="#f00"/>
-  <path id="path6" d="m-1.2902 1.0321h3.0964v1.0321h-3.0964z" fill="#00f"/>
-  <path id="path8" d="m-1.2902 2.0643h3.0964v1.0321h-3.0964z" fill="#ffa500"/>
- </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="384pt" height="384pt" viewBox="0 0 384 384" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,0%,0%);fill-opacity:1;" d="M -0.00390625 0 L 383.996094 0 L 383.996094 127.996094 L -0.00390625 127.996094 Z M -0.00390625 0 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,100%);fill-opacity:1;" d="M -0.00390625 127.996094 L 383.996094 127.996094 L 383.996094 255.992188 L -0.00390625 255.992188 Z M -0.00390625 127.996094 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,64.705882%,0%);fill-opacity:1;" d="M -0.00390625 256.003906 L 383.996094 256.003906 L 383.996094 384.003906 L -0.00390625 384.003906 Z M -0.00390625 256.003906 "/>
+</g>
 </svg>

@@ -1,38 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
-<!-- /Creative Commons Public Domain -->
-<!--
-<rdf:RDF xmlns="http://web.resource.org/cc/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-<Work rdf:about="">
-   <dc:title>SVG graphic of Madagascan flag</dc:title>
-   <dc:rights><Agent>
-      <dc:title>Russell Cloran</dc:title>
-   </Agent></dc:rights>
-   <license rdf:resource="http://web.resource.org/cc/PublicDomain" />
-</Work>
-
-<License rdf:about="http://web.resource.org/cc/PublicDomain">
-   <permits rdf:resource="http://web.resource.org/cc/Reproduction" />
-   <permits rdf:resource="http://web.resource.org/cc/Distribution" />
-   <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
-</License>
-
-</rdf:RDF>
--->
-<svg id="svg548" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="512" width="512" version="1" y="0" x="0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata3486">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="flag" fill-rule="evenodd" stroke-width="1pt" transform="matrix(.68808 0 0 1.0321 0 .000048060)">
-  <rect id="rect551" height="248.03" width="496.06" y="-0.000023" x="248.03" fill="#ff3319"/>
-  <rect id="rect552" height="248.03" width="496.06" y="248.03" x="248.03" fill="#00cc28"/>
-  <rect id="rect553" height="496.06" width="248.03" y="-0.000038" x="0" fill="#fff"/>
- </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="384pt" height="384pt" viewBox="0 0 384 384" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,20%,9.803922%);fill-opacity:1;" d="M 128 0 L 383.996094 0 L 383.996094 191.992188 L 128 191.992188 Z M 128 0 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(0%,80%,15.686275%);fill-opacity:1;" d="M 128 191.992188 L 383.996094 191.992188 L 383.996094 383.988281 L 128 383.988281 Z M 128 191.992188 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 0 0 L 128 0 L 128 383.988281 L 0 383.988281 Z M 0 0 "/>
+</g>
 </svg>

@@ -1,40 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
-<!--
-
-<rdf:RDF xmlns="http://web.resource.org/cc/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-<Work rdf:about="">
-   <dc:title>SVG graphic of the Marshall Islands' Flag</dc:title>
-   <dc:rights><Agent>
-      <dc:title>Andrew Duhan</dc:title>
-   </Agent></dc:rights>
-   <license rdf:resource="http://web.resource.org/cc/PublicDomain" />
-</Work>
-
-<License rdf:about="http://web.resource.org/cc/PublicDomain">
-   <permits rdf:resource="http://web.resource.org/cc/Reproduction" />
-   <permits rdf:resource="http://web.resource.org/cc/Distribution" />
-   <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
-</License>
-
-</rdf:RDF>
-
--->
-<svg id="svg650" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="512" width="512" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata3495">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="flag" fill-rule="evenodd">
-  <rect id="rect659" height="512" width="511.9" y="3.3092e-14" x="0" stroke-width="1pt" fill="#3b5aa3"/>
-  <path id="path656" d="m139.06 1.2407-5.4 87.962-23.12-56.095 8.87 59.71-35.796-48.252 23.466 55.055-47.013-36.467 36.592 45.826-53.14-23.552l46.549 35.244-57.895-7.6547 54.706 21.687-85.871 7.8543 86.083 5.7533-54.547 22.427 57.311-7.755-46.377 34.245 53.819-23.615-36.708 46.202 46.7-35.358-23.136 53.817 37.382-46.801-10.119 58.338 23.514-54.511 5.3151 86.112 8.2925-85.899 20.274 54.843-7.7291-59.095 37.198 46.841-24.441-54.708 46.681 37.649-37.113-47.005 55.481 23.1-49.102-35.857 59.797 10.08-57.246-21.987 89.038-5.5288-89.038-8.2925 58.606-19.535-60.733 7.6282 50.179-35.082-56.557 22.75 39.059-47.352-47.564 37.146 22.888-56.832-36.921 48.327 7.9305-60.27-21.963 56.868-8.204-87.962z" fill="#fff"/>
-  <path id="path655" d="m0 498.22 511.94-498.22-0.03 92.71-511.91 419.29v-13.78z" fill="#e2ae57"/>
-  <path id="path654" d="m17.918 511.98 494.08-320.81-0.11-101.85-511.89 422.68 17.918-0.02z" fill="#fff"/>
- </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="384pt" height="384pt" viewBox="0 0 384 384" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(23.137255%,35.294118%,63.921569%);fill-opacity:1;" d="M 0 0 L 383.925781 0 L 383.925781 384 L 0 384 Z M 0 0 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 104.296875 0.929688 L 100.246094 66.902344 L 82.90625 24.832031 L 89.558594 69.613281 L 62.710938 33.425781 L 80.308594 74.714844 L 45.050781 47.367188 L 72.496094 81.734375 L 32.640625 64.070312 L 67.550781 90.503906 L 24.128906 84.761719 L 65.160156 101.027344 L 0.757812 106.917969 L 65.316406 111.234375 L 24.40625 128.054688 L 67.390625 122.238281 L 32.609375 147.921875 L 72.972656 130.210938 L 45.441406 164.863281 L 80.464844 138.34375 L 63.113281 178.707031 L 91.152344 143.605469 L 83.5625 187.359375 L 101.199219 146.476562 L 105.183594 211.058594 L 111.402344 146.636719 L 126.609375 187.765625 L 120.8125 143.445312 L 148.710938 178.578125 L 130.378906 137.546875 L 165.390625 165.78125 L 137.554688 130.527344 L 179.167969 147.855469 L 142.339844 120.960938 L 187.1875 128.519531 L 144.253906 112.03125 L 211.03125 107.882812 L 144.253906 101.664062 L 188.207031 87.015625 L 142.65625 92.734375 L 180.292969 66.421875 L 137.875 83.484375 L 167.167969 47.972656 L 131.496094 75.832031 L 148.660156 33.207031 L 120.972656 69.453125 L 126.917969 24.25 L 110.445312 66.902344 L 104.292969 0.929688 Z M 104.296875 0.929688 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(88.627451%,68.235294%,34.117647%);fill-opacity:1;" d="M 0 373.664062 L 383.953125 0 L 383.933594 69.53125 L 0 384 Z M 0 373.664062 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 13.4375 383.984375 L 384 143.378906 L 383.914062 66.988281 L 0 384 Z M 13.4375 383.984375 "/>
+</g>
 </svg>

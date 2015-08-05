@@ -1,23 +1,26 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
-<svg id="svg378" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="512" width="512" version="1" y="0" x="0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata3040">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs380">
-  <clipPath id="clipPath3067" clipPathUnits="userSpaceOnUse">
-   <rect id="rect3069" fill-opacity="0.67" height="708.66" width="708.66" y=".0000032271" x="177.17"/>
-  </clipPath>
- </defs>
- <g id="flag" fill-rule="evenodd" clip-path="url(#clipPath3067)" transform="matrix(.72249 0 0 .72249 -128 -.0000023316)">
-  <rect id="rect171" height="708.66" width="1063" y="0" x="0" stroke-width="1pt" fill="#fff41e"/>
-  <rect id="rect256" transform="translate(0 .00028121)" height="236.22" width="1063" y="472.44" x="0" stroke-width="1pt" fill="#1f7848"/>
-  <rect id="rect255" height="236.22" width="1063" y="0" x="0" stroke-width="1pt" fill="#e80006"/>
-  <path id="path349" d="m266.19 534.45-10.408-7.432-10.357 7.505 3.852-12.196-10.338-7.531 12.79-0.105 3.967-12.159 4.052 12.131 12.79 0.016-10.285 7.602 3.937 12.169z" transform="matrix(7.4323 0 0 7.4323 -1370 -3499.1)" stroke-width=".11287"/>
- </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="384pt" height="384pt" viewBox="0 0 384 384" version="1.1">
+<defs>
+<clipPath id="clip1">
+  <path d="M 0.00390625 0 L 384 0 L 384 384 L 0.00390625 384 Z M 0.00390625 0 "/>
+</clipPath>
+<clipPath id="clip2">
+  <path d="M 0.00390625 256 L 384 256 L 384 384 L 0.00390625 384 Z M 0.00390625 256 "/>
+</clipPath>
+<clipPath id="clip3">
+  <path d="M 0.00390625 0 L 384 0 L 384 128 L 0.00390625 128 Z M 0.00390625 0 "/>
+</clipPath>
+</defs>
+<g id="surface1">
+<g clip-path="url(#clip1)" clip-rule="nonzero">
+<rect x="0" y="0" width="384" height="384" style="fill:rgb(100%,95.686275%,11.764706%);fill-opacity:1;stroke:none;"/>
+</g>
+<g clip-path="url(#clip2)" clip-rule="nonzero">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(12.156863%,47.058824%,28.235294%);fill-opacity:1;" d="M -96 256 L 480.003906 256 L 480.003906 384 L -96 384 Z M -96 256 "/>
+</g>
+<g clip-path="url(#clip3)" clip-rule="nonzero">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(90.980392%,0%,2.352941%);fill-opacity:1;" d="M -96 0 L 480.003906 0 L 480.003906 128 L -96 128 Z M -96 0 "/>
+</g>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 233.675781 256.355469 L 191.757812 226.421875 L 150.046875 256.648438 L 165.558594 207.53125 L 123.925781 177.199219 L 175.433594 176.777344 L 191.410156 127.808594 L 207.730469 176.664062 L 259.238281 176.730469 L 217.820312 207.34375 Z M 233.675781 256.355469 "/>
+</g>
 </svg>
