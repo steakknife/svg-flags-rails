@@ -18,7 +18,7 @@ EOF
   s.files = Dir['{lib,app}/**/*'] + ['LICENSE', 'README.md']
   s.test_files = Dir['test/**/*']
 
-  s.add_dependency 'railties', '~> 4.0'
-  s.add_development_dependency 'rails', '~> 4.0'
+  s.add_dependency 'railties', '>= 4.0'
+  s.add_development_dependency 'rails', '>= 4.0'
 end
 .tap {|gem| pk = File.expand_path(File.join('~/.keys', 'gem-private_key.pem')); gem.signing_key = pk if File.exist? pk; gem.cert_chain = ['gem-public_cert.pem']} # pressed firmly by waxseal
