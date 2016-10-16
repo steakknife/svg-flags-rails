@@ -5,5 +5,6 @@
 <path style="fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:4;" d="M 0 0 L 25 15 M 25 0 L 0 15 " transform="matrix(24,0,0,24,0,0)"/>
 <path style="fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:4;" d="M 12.5 0 L 12.5 15 M 0 7.5 L 25 7.5 " transform="matrix(24,0,0,24,0,0)"/>
 <path style="fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(81.176471%,7.843137%,16.862745%);stroke-opacity:1;stroke-miterlimit:4;" d="M 12.5 0 L 12.5 15 M 0 7.5 L 25 7.5 " transform="matrix(24,0,0,24,0,0)"/>
+<path style="fill-rule:nonzero;fill:rgb(81.176471%,7.843137%,16.862745%);stroke:none;fill-opacity:1;" d="M 0 360 L 200 240 L 245 240 L 45 360 Z M 0 0 L 200 120 L 155 120 L 0 25 Z M 355 120 L 555 0 L 600 0 L 400 120 Z M 600 360 L 400 240 L 445 240 L 600 335 Z M 600 360"/>
 </g>
 </svg>
